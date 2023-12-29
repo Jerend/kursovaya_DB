@@ -1,0 +1,4 @@
+D:\Python and c++\source\repos\3 курс\базы данных\Курсовая\Kursovaya WinForms\x64\Debug\Kursovaya WinForms.vcxproj.AssemblyReference.cache
+D:\Python and c++\source\repos\3 курс\базы данных\Курсовая\Kursovaya WinForms\x64\Debug\Kursovaya WinForms.exe
+D:\Python and c++\source\repos\3 курс\базы данных\Курсовая\Kursovaya WinForms\x64\Debug\KursovayaWinForms.MyForm.resources
+D:\Python and c++\source\repos\3 курс\базы данных\Курсовая\Kursovaya WinForms\x64\Debug\Kursovaya WinForms.vcxproj.GenerateResource.cache
